@@ -4,7 +4,7 @@ just analog clock that build in Python-tkinter
 currently you may needs a img for shape of clock
 
 Note that : need math function for placing the clock 
-          : needs time function for time ( so what , bascially this is clock right xD )
+          : needs time function for time ( so what , bascially this is clock right? xD )
           
           
           
